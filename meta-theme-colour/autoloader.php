@@ -8,6 +8,8 @@ defined( 'ABSPATH' ) or die( 'No access' );
  */
 
 spl_autoload_register(function ($class) {
-    $class = preg_replace("/^MetaThemeColour\\\/", '', $class);
-    include 'Lib/' . $class . '.php';
+    $class = 'Lib/' . preg_replace("/^MetaThemeColour\\\/", '', $class) . '.php';
+	if (stream_resolve_include_path($class)){
+		require_once $class;
+	}
 });
