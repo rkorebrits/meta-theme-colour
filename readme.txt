@@ -38,7 +38,7 @@ Absolutely!
 3. Blue Example
 4. Green Example
 5. Red Example
-5. Purple Example
+6. Purple Example
 
 ** Device screenshots **
 
