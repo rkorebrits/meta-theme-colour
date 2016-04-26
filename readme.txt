@@ -17,8 +17,6 @@ Change the colour of the address bar on mobile devices. Uses the WordPress built
 
 This section describes how to install the plugin and get it working.
 
-e.g.
-
 1. Upload the plugin folder to the `/wp-content/plugins/` directory, or install the plugin through the WordPress plugins screen directly.
 1. Activate the plugin through the 'Plugins' screen in WordPress
 1. Use the `Settings -> Meta Theme Colour` screen to configure the plugin
@@ -27,9 +25,22 @@ e.g.
 
 == Frequently Asked Questions ==
 
+= Does it work? =
+
+Absolutely!
 
 == Screenshots ==
 
+** Admin colour picker **
+
+1. Admin
+2. Orange Example
+3. Blue Example
+4. Green Example
+5. Red Example
+5. Purple Example
+
+** Device screenshots **
 
 == Changelog ==
 
