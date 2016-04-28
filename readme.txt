@@ -3,7 +3,7 @@ Contributors: rkorebrits
 Tags: meta theme colour, meta theme color
 Requires at least: 4.4.1
 Tested up to: 4.5
-Stable tag: 4.5
+Stable tag: 0.1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -31,8 +31,6 @@ Absolutely!
 
 == Screenshots ==
 
-** Admin colour picker **
-
 1. Admin
 2. Orange Example
 3. Blue Example
@@ -40,10 +38,16 @@ Absolutely!
 5. Red Example
 6. Purple Example
 
-** Device screenshots **
-
 == Changelog ==
 
 = 0.1 =
 First version
+
+= 0.1.0.1 =
+Added images
+
+== Upgrade Notice ==
+
+None
+
 
