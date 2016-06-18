@@ -62,8 +62,9 @@ class Base {
 	public function meta_theme_colour_set_html() {
 		$this->options = get_option( 'meta-theme-colour-group-colour' );
 		$colour = $this->options['meta_theme_colour'];
-//		print_r($this->options);die();
-		printf( '<meta name="theme-color" content="%s" />', $colour );
+
+		printf( '<meta name="theme-color" content="%s">', $colour );
+		printf( '<meta name="msapplication-navbutton-color" content="%s">', $colour );
 
 	}
 
