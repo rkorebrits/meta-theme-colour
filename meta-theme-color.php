@@ -2,7 +2,7 @@
 /*
 Plugin Name: Meta Theme Color Colour
 Description: Set the colour shown in mobile browser's address bars
-Version:     0.1.0.1
+Version:     1.0
 Author:      Richard Korebrits
 Author URI:  http://korebrits.com
 License:     GPL2
