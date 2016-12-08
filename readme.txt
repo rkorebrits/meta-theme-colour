@@ -2,7 +2,7 @@
 Contributors: rkorebrits
 Tags: meta theme colour, meta theme color, meta theme, mobile address bar color
 Requires at least: 4.0
-Tested up to: 4.5.3
+Tested up to: 4.7
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -41,14 +41,15 @@ Absolutely!
 
 == Changelog ==
 
-= 0.1 =
-First version
+= 1.0 =
+Official release + more device support
 
 = 0.1.0.1 =
 Added images
 
-= 1.0 =
-Official release
+= 0.1 =
+First version
+
 
 == Upgrade Notice ==
 
